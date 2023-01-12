@@ -9,10 +9,11 @@ Official code for BoxMask: Revisiting Bounding Box Supervision for Video Object 
 ## Citing BoxMask
 Please cite our paper in your publications if it helps your research:
 ```
-@article{hashmi2022boxmask,
+@inproceedings{hashmi2023boxmask,
   title={BoxMask: Revisiting Bounding Box Supervision for Video Object Detection},
-  author={Hashmi, Khurram Azeem and Pagani, Alain and Stricker, Didier and Afzal, Muhammamd Zeshan},
-  journal={arXiv preprint arXiv:2210.06008},
-  year={2022}
+  author={Hashmi, Khurram Azeem and Pagani, Alain and Stricker, Didier and Afzal, Muhammad Zeshan},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={2030--2040},
+  year={2023}
 }
 ```
