@@ -1,18 +1,16 @@
-# Temporal RoI Align for Video Object Recognition
+# BoxMask: Revisiting Bounding Box Supervision for Video Object Detection
 
 ## Introduction
 
 [ALGORITHM]
 
 ```latex
-@inproceedings{gong2021temporal,
-  title={Temporal ROI Align for Video Object Recognition},
-  author={Gong, Tao and Chen, Kai and Wang, Xinjiang and Chu, Qi and Zhu, Feng and Lin, Dahua and Yu, Nenghai and Feng, Huamin},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={2},
-  pages={1442--1450},
-  year={2021}
+@inproceedings{hashmi2023boxmask,
+  title={BoxMask: Revisiting Bounding Box Supervision for Video Object Detection},
+  author={Hashmi, Khurram Azeem and Pagani, Alain and Stricker, Didier and Afzal, Muhammad Zeshan},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={2030--2040},
+  year={2023}
 }
 ```
 
